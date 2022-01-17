@@ -1,4 +1,4 @@
-import { useEffect } from "react";
+import React, { useEffect } from "react";
 import { getData } from "./helpers/getData";
 import "./styles.css";
 
